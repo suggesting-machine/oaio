@@ -1,1 +1,1 @@
-### Thingking-Machine (oaio).
+### Suggesting-Machine (oaio).
